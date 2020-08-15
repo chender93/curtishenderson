@@ -294,6 +294,7 @@ footer a {
     html, body {
         width: 100%;
         overflow-x: hidden;
+        font-family: 'Lato', sans-serif; 
                 }
     }
 /*MEDIA QUERY FOR MOBILE PHONES AND SMALLER*/
@@ -340,7 +341,7 @@ footer h2, footer div {
 }
 .about p {
     width: 100%;
-    font-size: 15px;
+    font-size: 25px;
 }
 .works h2 {
     border: none;
@@ -384,7 +385,7 @@ footer h2, footer div {
     border: solid 2px var(--tertiary-color);
 }
 .contact-text {
-    font-size: 4vw;
+    font-size: 3vw;
     text-decoration: none;
 }
 footer {
