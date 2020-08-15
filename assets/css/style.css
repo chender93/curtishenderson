@@ -289,14 +289,13 @@ footer a {
 }
 /*End of PRIVACY POLICY PAGE Styling*/
 
-/*MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER*/
+/*MEDIA QUERY FOR SMALLER DESKTOP SCREENS, TABLETS, SMALLER*/
 @media screen and (max-width: 980px) {
     html, body {
         width: 100%;
         overflow-x: hidden;
                 }
     }
-/*MEDIA QUERY FOR TABLETS AND SMALLER*/
 /*MEDIA QUERY FOR MOBILE PHONES AND SMALLER*/
 header {
     width: 100%;
