@@ -181,9 +181,8 @@ header nav ul li a:hover {
 .works-grid-item.bottom {
     grid-column: 2 / span 2;
     grid-row: 3 / span 1;
-    background-image: url("../images/chocolate-grid.jpg");
-    background-size: cover;
-    background-position-y: -30px;
+    background-image: url("../images/petpurrfect_logo.png");
+    background-size: contain;
     align-items: flex-start;
     justify-content: flex-end;
     padding: 10px;
