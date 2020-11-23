@@ -162,7 +162,7 @@ header nav ul li a:hover {
 .works-grid-item.top {
     grid-column: 2 / span 2;
     grid-row: 1/ span 1;
-    background-image: url("../images/artist-profile-grid.png");
+    background-image: url("../images/passthepage.png");
     background-size: cover;
     align-items: flex-start;
     justify-content: flex-end;
